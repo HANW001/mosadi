@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873121940191",
+    "project_id": "boardfire",
+    "storage_bucket": "boardfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873121940191:android:007e4d31141d1d6a799f6a",
+        "android_client_info": {
+          "package_name": "com.example.board_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873121940191-cd4p99ul6s33ciajtrd7qgm401dmu7s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUPJYexhsfTHNYN7GauSaPvvS4GgHm7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873121940191-cd4p99ul6s33ciajtrd7qgm401dmu7s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
